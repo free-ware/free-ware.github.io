@@ -1,0 +1,69 @@
+body {
+	background: black;
+	font-family: sans-serif;
+	color: white;
+	font-weight: 900;
+	text-align: center;
+	align-content: center;
+}
+
+.download {
+	padding: 10px;
+	background: yellow;
+	border-radius: 10px;
+	border: none;
+	font-weight: 900;
+	color: black;
+}
+.download:hover {
+	padding: 10px;
+	background: white;
+	border-radius: 10px;
+	border: none;
+	font-weight: 900;
+	color: black;
+	cursor: pointer;
+}
+
+a {
+	color: yellow;
+}
+
+a:hover {
+	color: white;
+}
+
+.title {
+	font-size: 100px;
+}
+
+.subtitle {
+	font-size: 25px;
+}
+
+.logo {
+	border-width:5px;
+	border-style:solid;
+	border-color:yellow;
+	border-radius: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	background: yellow;
+	color: black
+}
+
+hr {
+	border-radius: 10px;
+	border-top: 8px solid;
+	color: yellow;
+}
+
+.thumb {
+	border-radius: 10px;
+	width: 400px;
+}
+
+.small {
+	font-style: italic;
+	font-size: 10px;
+}
